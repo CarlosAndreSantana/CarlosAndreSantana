@@ -2,9 +2,11 @@
 
 ### Hi there 👋
 
-- Sou apaixonado por resolver problemas utilizando a programação.
-- Sou um FullStack Developer Junior :computer:
-- :rocket:  &nbsp; Estou Estudando na UFSCar
+- I'm passionate about solving problems using programming.
+- :computer: I'm a FullStack Developer Junior 
+- :rocket:  &nbsp; Study at UFSCar.
+- :tongue: My mother tongue is Portuguese
+- :baby: I'm learning English
 
 - 🔭 I’m currently working on  a personal project.
 - 🌱 I’m currently learning  Web development (HTML, CSS, JS ) .
