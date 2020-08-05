@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- I'm passionate about solving problems using programming.
+- :sparkling_heart: I'm passionate about solving problems using programming.
 - :computer: I'm a FullStack Developer Junior 
 - :rocket:  &nbsp; Study at UFSCar.
 - :tongue: My mother tongue is Portuguese
