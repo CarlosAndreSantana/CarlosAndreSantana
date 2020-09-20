@@ -13,7 +13,7 @@
 - :blush: &nbsp; I can help you with C, C ++, OOP, Data Structure.
 - 👯 I’m looking to collaborate on  with my developing knowledge and all the knowledge I have.   
 - 🤔 I’m looking for help with  my open source projects. 
-- :computer: &nbsp; Minha stack: C, C++, JavaScript, Data Structure.
+- :computer: &nbsp; Minha stack: C, C++, JavaScript.
 - 💬 Ask me about  Anything, if I don't know, we'll learn together.   
 - 📫 How to reach me: https://www.linkedin.com/in/carlos-andr%C3%A9-costa-santana-606262169/ 
 - 😄 I,m Curious, Self-taught, flexible, attentive. 
