@@ -18,7 +18,7 @@
 
 :blush: I can help you with C, C++, OOP and data structure;
 
-:people_with_bunny_ears_partying: I’m looking to collaborate with all the knowledge I have;
+:dancers: I’m looking to collaborate with all the knowledge I have;
 
 :thinking: I’m looking for help with my open source projects;
 
